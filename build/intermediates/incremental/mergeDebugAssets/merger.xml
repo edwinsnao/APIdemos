@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\docs\ApiDemos\assets"><file name="fonts/samplefont.ttf" path="F:\docs\ApiDemos\assets\fonts\samplefont.ttf"/><file name="HelloActivity.apk" path="F:\docs\ApiDemos\assets\HelloActivity.apk"/><file name="read_asset.txt" path="F:\docs\ApiDemos\assets\read_asset.txt"/></source></dataSet><dataSet config="debug"><source path="F:\docs\ApiDemos\build-types\debug\assets"/></dataSet></merger>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\docs\\ApiDemos\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "F:\\docs\\ApiDemos\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "F:\\docs\\ApiDemos\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "F:\\docs\\ApiDemos\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "F:\\docs\\ApiDemos\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "F:\\docs\\ApiDemos\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "F:\\docs\\ApiDemos\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "F:\\docs\\ApiDemos\\res\\animator\\fragment_slide_right_enter.xml"
+    }
+]
